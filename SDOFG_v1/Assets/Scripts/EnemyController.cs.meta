@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 3df5ff54238c74247b89c8c4add3b788
+timeCreated: 1447679598
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Enemy1: {fileID: 152126, guid: 9ec29b1b30cff974bb4c9cfc4ac92c6e, type: 2}
+  - Enemy2: {fileID: 152126, guid: 15c70c818f562de45ab641023c5c27aa, type: 2}
+  - Enemy3: {fileID: 152126, guid: bfb85603bab62c04d8d1fb2e5b61fd22, type: 2}
+  - Boundary: {instanceID: 0}
+  - Player: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
